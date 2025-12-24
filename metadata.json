@@ -1,0 +1,7 @@
+{
+  "name": "thesolopreneur.app",
+  "description": "An all-in-one sales enablement platform for solo operators to find and engage with customers, powered by AI. It allows solopreneurs to scout territories, simulate negotiations, and manage their sales pipeline.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
